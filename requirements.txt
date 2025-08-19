@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-math
-graphviz
+
+streamlit==1.37.1
+
+graphviz==0.20.3
 
